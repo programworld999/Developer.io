@@ -1,0 +1,29 @@
+{
+  "name": "Developers.io",
+  "short_name": "Developers.io",
+  "icons": [{
+    "src": "img/icons/icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/icon.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "img/icons/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "http://localhost:8080/reactjs/pwa/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#A3A3A3"
+}
